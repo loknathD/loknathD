@@ -24,17 +24,66 @@
 - ⚡ Certified in **Terraform, Kubernetes, & AWS**
 - 🏢 Based in **Bengaluru, India**
 
-## 💼 Experience & Expertise
+## 💼 Technology Stack
 
-```javascript
-const skills = {
-    cloud: ['AWS', 'GCP'],
-    infrastructure: ['Terraform', 'Docker', 'Kubernetes'],
-    monitoring: ['Grafana', 'Prometheus'],
-    cicd: ['Jenkins', 'GitLab CI'],
-    security: ['DevSecOps', 'Security Automation'],
-    additional: ['Digital Marketing', 'Process Optimization']
-};
+<details>
+<summary><b>🌩️ Cloud & Infrastructure</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
+</p>
+</details>
+
+<details>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+</p>
+</details>
+
+<details>
+<summary><b>📊 Monitoring & Observability</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔐 Security & Compliance</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevSecOps"/>
+  <img src="https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+</p>
+</details>
+
+<details>
+<summary><b>🌐 Additional Skills</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Marketing-%23FF4785.svg?style=for-the-badge&logo=google-marketing-platform&logoColor=white" alt="Digital Marketing"/>
+  <img src="https://img.shields.io/badge/Process%20Optimization-%23000000.svg?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="Process Optimization"/>
+</p>
+</details>
+
+<!-- Skill Progress Bars -->
+```text
+AWS          ███████████████░░░   85%
+Terraform    ██████████████░░░░   80%
+Kubernetes   ███████████░░░░░░░   65%
+Docker       ███████████████░░░   85%
+DevSecOps    ████████░░░░░░░░░░   50%
 ```
 
 ## 📊 GitHub Stats
@@ -47,13 +96,13 @@ const skills = {
 ## 🎓 Certifications & Achievements
 
 <p align="left">
-  <a href="#">
+  <a href="https://kodekloud.com/certificate-verification/2D0FB90052F0-2DFABDBFC3D9-2D0FAD6FF7C8/">
     <img src="https://img.shields.io/badge/HashiCorp--Terraform-Expert-brightgreen?style=for-the-badge&logo=terraform" />
   </a>
-  <a href="#">
+  <a href="https://kodekloud.com/certificate-verification/2D0FB90052F0-2D0FB309AD73-2D0FAD6FF7C8/">
     <img src="https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes" />
   </a>
-  <a href="#">
+  <a href="https://coursera.org/verify/specialization/3A85QNM6EEVB">
     <img src="https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws" />
   </a>
 </p>
