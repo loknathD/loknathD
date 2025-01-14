@@ -40,8 +40,8 @@ const skills = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loknathD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loknathD&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🎓 Certifications & Achievements
@@ -58,19 +58,14 @@ const skills = {
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-![Snake animation](https://github.com/${YOUR_GITHUB_USERNAME}/${YOUR_GITHUB_USERNAME}/blob/output/github-contribution-grid-snake.svg)
-
 ## 🤝 Connect With Me
 
 <p align="left">
 <a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="YOUR_TWITTER_URL" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=loknathD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
